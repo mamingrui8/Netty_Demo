@@ -1,0 +1,2 @@
+协议的格式:
+HEADcontent-length:xxxxHEADBODYXXXXXXBODY
